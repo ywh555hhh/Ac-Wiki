@@ -215,6 +215,10 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 
 [![学习资料库](https://img.shields.io/static/v1?label=&message=学习资料库&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sikouhjw/jxust-Learning-database)
 
+### 华中科技大学（计算机学院）
+
+[![HUST-学解](https://img.shields.io/static/v1?label=&message=HUST-学解&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie)
+
 ---
 
 # 💁 联系我们
