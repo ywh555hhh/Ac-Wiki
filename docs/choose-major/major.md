@@ -3,8 +3,11 @@
     志愿填报是步入成年人的你可以自己决定的事情，请遵从自己内心的选择，以下内容不保证时效性且仅供相关参考。
 
 ## 可能用到的工具
-[阳光高考-专业知识库](https://gaokao.chsi.com.cn/zyk/zybk/)  
-[学科评估结果](https://www.cdgdc.edu.cn/dslxkpgjggb/)
+- [阳光高考-专业知识库](https://gaokao.chsi.com.cn/zyk/zybk/)  
+
+- [学科评估结果](https://www.cdgdc.edu.cn/dslxkpgjggb/)   
+
+- [一些大学的生活质量](https://colleges.chat)
 
 ## 可能用到的信息来源
 - 当年以及前几年的分数线  
@@ -17,4 +20,6 @@
 填报志愿是一件复杂的事情，因此我们认为**兴趣**是最重要的，这样你才有动力坚持学习下去。如果你想好了之后的职业规划，可以在填报志愿时注意专业与之后职业的**匹配性**和必要性。如果你什么没想好也没有关系，我们相信每一条路都有其独特的魅力。
 
 ## 致谢
-部分信息整理自[讨论组](https://t.me/AcFourm)
+- 部分信息整理自[讨论组](https://t.me/AcFourm)
+
+- Colleges.chat [项目组](https://github.com/CollegesChat)
