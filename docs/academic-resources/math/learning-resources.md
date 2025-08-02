@@ -38,5 +38,6 @@
     - 视频链接：[https://www.bilibili.com/video/BV1Vs4y1Z7HB](https://www.bilibili.com/video/BV1Vs4y1Z7HB)
 
 - **《高等代数》**
-    - 作者：谢启鸿
+    - 作者：[谢启鸿](https://space.bilibili.com/512151059)
     - 官方博客：[https://www.cnblogs.com/torsor/p/4731153.html](https://www.cnblogs.com/torsor/p/4731153.html)
+    - 视频链接（习题课）：[https://www.bilibili.com/video/BV1X7411F7fK](https://www.bilibili.com/video/BV1X7411F7fK)
