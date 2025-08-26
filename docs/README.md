@@ -234,13 +234,13 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 <div align="center">
 
 <a href="https://t.me/AcWiki">
-  <img src="https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 频道"/>
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=%E9%A2%91%E9%81%93&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 频道"/>
 </a>
 <a href="https://t.me/AcFourm">
-  <img src="https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 群组"/>
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=%E7%BE%A4%E7%BB%84&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 群组"/>
 </a>
 <a href="https://qm.qq.com/q/WJI3hgBcm4">
-  <img src="https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ 群"/>
+  <img src="https://img.shields.io/static/v1?label=QQ%E7%BE%A4&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ 群"/>
 </a>
 
 </div>
